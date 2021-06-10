@@ -69,10 +69,10 @@ public class CalculatorTest {
 //    /**
 //     * Tests the sum of two integers
 //     */
-//    public void testDoubleMultiply() {
-//        double a = 7;
-//        double b = -7;
-//        double product = Calculator.multiply(a, b);
-//        Assert.assertEquals(product, -49);
-//    }
+    public void testDoubleMultiply() {
+        double a = 7;
+        double b = -7;
+        double product = Calculator.multiply(a, b);
+        Assert.assertEquals(product, -49);
+    }
 }

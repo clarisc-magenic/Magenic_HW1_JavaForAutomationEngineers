@@ -12,4 +12,5 @@ PROGRAMMING TASKS
 
 SHORT ANSWERS
     [ ] Comment below what the difference between TestNG and the main method is
-        // ANSWER HERE:
+        // ANSWER HERE: Main method is the starting point of a Java program. You cannot
+        run a program without a main method. TestNG is used for testing
